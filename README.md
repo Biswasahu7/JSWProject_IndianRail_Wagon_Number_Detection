@@ -1,4 +1,4 @@
-# JSWProject_IndianRail_Wagon_Number_Detection
+# JSW_Project_IndianRail_Wagon_Number_Detection
 This is one compouter vision project to our client JSW to detect Indian Railway wagon number. 
 We have used yolov3 object detection transfer learning to achive our target. We have trained more then one million images to reach the acccuracy.
 
